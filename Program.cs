@@ -1,5 +1,5 @@
 ﻿using System;
-
+// Tim Nilsson SUT22
 namespace NumbersGame4._0
 {
     internal class Program
